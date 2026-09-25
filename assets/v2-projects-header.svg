@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="96" rx="22" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+<circle cx="42" cy="50" r="14" fill="url(#g)"><animate attributeName="r" values="12;16;12" dur="2s" repeatCount="indefinite"/></circle>
+<text x="72" y="44" font-family="Arial" font-size="25" font-weight="800" fill="#0f172a">SELECTED BUILDS</text>
+<text x="72" y="70" font-family="Arial" font-size="14" fill="#64748b">AI systems • developer tools • real-time products • automation</text>
+<path d="M1010 50 H1155" stroke="url(#g)" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="10 18;40 10;10 18" dur="3s" repeatCount="indefinite"/></path>
+</svg>
