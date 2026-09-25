@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190">
+<defs><style>.t{font:800 25px Arial,sans-serif}.d{font:15px Arial,sans-serif}.s{font:13px monospace}.card{fill:#f8fafc;stroke:#e2e8f0}@media(prefers-color-scheme:dark){.card{fill:#0b1220;stroke:#263244}.t{fill:#f8fafc!important}.d{fill:#94a3b8!important}.s{fill:#c4b5fd!important}}</style><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#06B6D4"/></linearGradient></defs>
+<rect x="8" y="8" width="504" height="174" rx="20" class="card"/>
+<rect x="28" y="28" width="48" height="28" rx="8" fill="#7C3AED"/><text x="52" y="48" text-anchor="middle" fill="white" font-family="monospace" font-size="13" font-weight="700">01</text>
+<text x="92" y="51" class="t" fill="#0f172a">DataMorph AI</text>
+<text x="30" y="91" class="d" fill="#64748b">Raw files → structured intelligence</text>
+<text x="30" y="124" class="s" fill="#6d28d9">React · FastAPI · Python · Gemini</text>
+<rect x="30" y="148" width="150" height="4" rx="2" fill="url(#g)"><animate attributeName="width" values="35;150;70;150" dur="3s" repeatCount="indefinite"/></rect>
+<circle cx="462" cy="48" r="7" fill="#7C3AED"><animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".45;1;.45" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="462" cy="48" r="20" fill="none" stroke="#7C3AED" opacity=".22"><animate attributeName="r" values="12;30;12" dur="2.8s" repeatCount="indefinite"/></circle>
+</svg>
