@@ -30,6 +30,36 @@
 
 </div>
 
+## 👨‍💻 About Me
+
+<div align="center">
+
+| 🎓 Education | 💡 Focus | 🛠️ Building |
+|:---:|:---:|:---:|
+| **B.Tech CSE · 4th Year** | **AI · ML · Full Stack** | **Products · Agents · Automation** |
+| Amity University Haryana | Real-Time · Data · APIs | From idea → working system |
+
+</div>
+
+I'm **Vitesh Pallapothu**, a Computer Science Engineering student and software builder from **Andhra Pradesh, India**.
+
+I enjoy working at the intersection of **AI and software engineering** — building complete systems rather than isolated demos. My projects span AI applications, data intelligence, voice technology, real-time platforms, business software and developer tooling.
+
+### 🔭 What I'm into
+
+- 🤖 **AI & Generative AI** — LLM applications, AI agents, NLP and intelligent workflows
+- 🧠 **Machine Learning** — model pipelines, classification, evaluation and data-driven systems
+- 🌐 **Full-Stack Engineering** — React, Next.js, Node.js, FastAPI and REST APIs
+- ⚡ **Real-Time Systems** — WebSockets, Socket.IO and live dashboards
+- 📊 **Data Engineering** — extraction, transformation, analysis and visualization
+- 🛠️ **Automation** — turning repetitive workflows into software
+
+### 🧩 My approach
+
+> **Understand the problem → design the system → build it → test it → ship it → improve it.**
+
+I like learning by building, experimenting with new technologies and turning practical problems into usable software.
+
 ## 🚀 Top 6 Builds
 
 <div align="center">
