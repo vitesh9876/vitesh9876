@@ -1,364 +1,176 @@
+<!-- PROFILE README — Vitesh Pallapothu -->
+
 <div align="center">
 
-# VITESHPALLAPOTHU
-
-### `AI × SOFTWARE × AUTOMATION`
-
-**Building intelligent systems, practical products, and experiments that turn complex problems into usable software.**
+<img src="./assets/hero.svg" alt="Vitesh — AI, Software and Automation" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/vitesh9876">
-  <img src="https://img.shields.io/badge/GitHub-vitesh9876-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/vitesh9876?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-12-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/vitesh9876"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vitesh9876?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vitesh9876?tab=followers"><img src="https://img.shields.io/github/followers/vitesh9876?style=for-the-badge&label=FOLLOWERS&color=00D9F5"/></a>
 
 <br/><br/>
 
-`Artificial Intelligence` • `Full Stack` • `Machine Learning` • `Automation` • `Real-Time Systems`
+**AI Engineering · Full Stack · Automation · Real-Time Systems**
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## 👋 Hey, I'm Vitesh
+
+I'm a **Computer Science Engineering student and builder** who likes taking an idea from a rough concept to an actual working system.
+
+I work across **AI/ML, full-stack development, data engineering, real-time applications and automation**, with a strong interest in AI-assisted development and **vibe coding** to move from idea → prototype → product quickly.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Vitesh Pallapothu                                           │
-│  ─────────────────────────────────────────────────────────   │
-│                                                              │
-│  Computer Science Engineer                                   │
-│                                                              │
-│  I build:                                                    │
-│                                                              │
-│  → AI-powered applications                                   │
-│  → Full-stack products                                       │
-│  → Real-time systems                                         │
-│  → Automation & developer tools                              │
-│  → Data & machine-learning workflows                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+IDEA
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+LEARN
+  ↓
+SHIP
 ```
 
-I'm interested in the space where **AI meets real software** — not just models, but the systems, interfaces, APIs, data pipelines and automation required to turn an idea into a working product.
+### ⚡ Right now
 
-Currently exploring deeper into:
-
-* 🤖 Generative AI & AI agents
-* 🧠 Machine Learning
-* 🏗️ Full-stack system architecture
-* ⚡ Real-time applications
-* 📊 Data intelligence
-* 🔧 Developer automation
+`🤖 AI / Agents` · `🧠 ML` · `🌐 Full Stack` · `⚡ Real-Time` · `📊 Data` · `🛠️ Automation`
 
 ---
 
-## `02` — WHAT I BUILD
+## 🚀 Featured Builds
 
 <div align="center">
 
-|       DOMAIN       | FOCUS                                             |
-| :----------------: | :------------------------------------------------ |
-|   🤖 **AI / ML**   | LLMs • NLP • Speech AI • Predictive Analytics     |
-|     📊 **Data**    | Data Processing • Analytics • Visualization       |
-|  🌐 **Full Stack** | React • Node.js • FastAPI • REST APIs             |
-|   ⚡ **Real-Time**  | WebSockets • Socket.IO • Live Systems             |
-|    📱 **Mobile**   | React Native • Cross-platform Applications        |
-| 🛠️ **Automation** | AI Agents • Workflow Automation • Developer Tools |
+<a href="https://github.com/vitesh9876/DataMorph-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=DataMorph-AI&theme=transparent&hide_border=true"/></a>
+<a href="https://github.com/vitesh9876/auravoice-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=auravoice-ai&theme=transparent&hide_border=true"/></a>
+<a href="https://github.com/vitesh9876/Intelligent-Support-Queue-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=Intelligent-Support-Queue-System&theme=transparent&hide_border=true"/></a>
+<a href="https://github.com/vitesh9876/Real-Time-Productivity-Management-System-Mini-SaaS-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=Real-Time-Productivity-Management-System-Mini-SaaS-&theme=transparent&hide_border=true"/></a>
+
+</div>
+
+### 🧬 DataMorph AI
+**Raw files → structured data → intelligence → reports**
+
+A full-stack data intelligence workspace for ingesting documents and datasets, extracting content, structuring information, generating insights and producing visual/report outputs.
+
+`React` `TypeScript` `FastAPI` `Python` `Pandas` `Scikit-Learn` `Gemini` `SQLAlchemy`
+
+### 🎙️ AuraVoice AI
+**Voice → signals → intelligence**
+
+A voice-analysis system combining speech recognition, acoustic/DSP features and machine learning.
+
+`React` `FastAPI` `PyTorch` `Transformers` `Whisper` `Wav2Vec2` `Librosa`
+
+### ⚡ Intelligent Support Queue
+**Real-time support orchestration**
+
+A live support platform with queue management, agent routing, dynamic priority and WebSocket-powered updates.
+
+`React` `React Native` `Expo` `Node.js` `Socket.IO` `MongoDB`
+
+### 📋 Real-Time Productivity
+**Tasks that understand urgency**
+
+A productivity SaaS with dynamic task priority, authentication, analytics and real-time synchronization.
+
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+---
+
+## 🧰 Tech I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,vite,tailwind,nodejs,express,fastapi,pytorch,tensorflow,mongodb,postgres,sqlite,docker,git,github&perline=11"/>
 
 </div>
 
 ---
 
-# `03` — FEATURED BUILDS
+## 🧠 How I Build
 
-## ⚡ DataMorph AI
+<table>
+<tr>
+<td width="50%">
 
-### `Turn raw files into structured intelligence.`
+### AI Engineering
+- LLM applications
+- AI agents
+- NLP & speech
+- ML pipelines
+- AI-assisted development
 
-**DataMorph AI** is a full-stack AI workspace designed to transform messy, unstructured files into structured data, machine-learning insights, visualizations and executive reports.
+</td>
+<td width="50%">
 
-**Pipeline**
+### Software Engineering
+- Full-stack products
+- REST APIs
+- Real-time systems
+- Data pipelines
+- Automation tools
 
-```text
-PDF / XLSX / CSV / DOCX / PPTX / TXT
-                │
-                ▼
-       Multi-format Extraction
-                │
-                ▼
-      Data Cleaning & Structuring
-                │
-                ▼
-        ML & Anomaly Detection
-                │
-                ├───────────────┐
-                ▼               ▼
-        Visualization      Ask Your Data
-                │               │
-                └───────┬───────┘
-                        ▼
-                AI Report Builder
-                        │
-                        ▼
-       PDF • DOCX • PPTX • XLSX • HTML
-```
+</td>
+</tr>
+</table>
 
-**Stack**
+### Vibe coding
 
-`React` `TypeScript` `Vite` `Tailwind` `FastAPI` `Python` `Pandas` `Scikit-Learn` `Gemini` `SQLAlchemy`
+I use AI as a **development multiplier** — turning architecture ideas, UI concepts and system requirements into working prototypes, then reviewing, debugging and refining the implementation.
 
-→ **[Explore DataMorph AI](https://github.com/vitesh9876/DataMorph-AI)**
+> **AI writes faster. Engineering decides what ships.**
 
 ---
 
-## 🎙️ AuraVoice AI
-
-### `Voice → Signals → Intelligence`
-
-A multimodal voice-analysis system combining **speech recognition, deep learning and digital signal processing**.
-
-The system analyzes acoustic characteristics including:
-
-* Speech emotion
-* Jitter & shimmer
-* HNR
-* Zero-crossing rate
-* Speech/pause patterns
-* Pitch characteristics
-* Articulation
-* Respiratory acoustic events
-
-It combines these signals with ML models and generates an AI-assisted interpretation.
-
-**Stack**
-
-`React` `Vite` `FastAPI` `PyTorch` `Transformers` `Whisper` `Wav2Vec2` `Librosa` `Scikit-Learn`
-
-→ **[Explore AuraVoice AI](https://github.com/vitesh9876/auravoice-ai)**
-
----
-
-## 🚀 Intelligent Support Queue System
-
-### `A real-time customer support orchestration system.`
-
-A full-stack support queue platform with separate experiences for administrators, support agents and customers.
-
-### Architecture
-
-```text
-             CUSTOMER
-                 │
-                 ▼
-        React Native App
-                 │
-                 ▼
-        ┌────────────────┐
-        │   Node / API   │
-        └────────────────┘
-                 │
-          Socket.IO Layer
-                 │
-       ┌─────────┴─────────┐
-       ▼                   ▼
-  Queue Engine        Agent Routing
-       │                   │
-       └─────────┬─────────┘
-                 ▼
-          Admin Dashboard
-```
-
-Features include real-time queue updates, dynamic priority calculation, specialized agent routing, displacement protection and inactivity handling.
-
-**Stack**
-
-`React` `React Native` `Expo` `Node.js` `Express` `Socket.IO` `MongoDB` `Tailwind CSS`
-
-🌐 **[Live Admin Dashboard](https://intelligent-support-queue-system.netlify.app/)**
-
-→ **[Repository](https://github.com/vitesh9876/Intelligent-Support-Queue-System)**
-
----
-
-## 📋 Real-Time Productivity Management System
-
-### `Tasks that understand urgency.`
-
-A real-time productivity SaaS built around dynamic task prioritization.
-
-Instead of treating every task equally, the system continuously recalculates priority as deadlines approach.
-
-**Core ideas**
-
-```text
-Task Created
-     │
-     ▼
-Priority Engine
-     │
-     ├── Deadline
-     ├── Urgency
-     └── Status
-     │
-     ▼
-Dynamic Priority
-     │
-     ▼
-Real-Time Dashboard
-```
-
-Includes JWT authentication, dynamic prioritization, WebSocket synchronization, productivity analytics and responsive UI.
-
-**Stack**
-
-`React` `Redux Toolkit` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-→ **[Explore Project](https://github.com/vitesh9876/Real-Time-Productivity-Management-System-Mini-SaaS-)**
-
----
-
-# `04` — ENGINEERING STACK
+## 📊 GitHub Activity
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,docker,git,github" />
-
-</div>
-
----
-
-# `05` — SYSTEMS I LIKE BUILDING
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│       USER                                             │
-│        │                                                │
-│        ▼                                                │
-│   ┌───────────┐                                         │
-│   │ Interface │                                         │
-│   └─────┬─────┘                                         │
-│         │                                               │
-│         ▼                                               │
-│   ┌───────────┐       ┌──────────────┐                 │
-│   │   API     │──────▶│ AI / ML      │                 │
-│   └─────┬─────┘       └──────┬───────┘                 │
-│         │                     │                         │
-│         ▼                     ▼                         │
-│   ┌───────────┐       ┌──────────────┐                 │
-│   │   DATA    │◀─────▶│ INTELLIGENCE │                 │
-│   └─────┬─────┘       └──────────────┘                 │
-│         │                                               │
-│         ▼                                               │
-│   ┌──────────────┐                                      │
-│   │   PRODUCT    │                                      │
-│   └──────────────┘                                      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-I enjoy building systems where **data → intelligence → action** forms a complete loop.
-
----
-
-# `06` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vitesh9876&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitesh9876&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitesh9876&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitesh9876&layout=compact&hide_border=true&theme=transparent"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vitesh9876&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=vitesh9876&theme=transparent&hide_border=true" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitesh9876&bg_color=00000000&color=7C3AED&line=00D9F5&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
 </div>
 
 ---
 
-# `07` — CONTRIBUTION GRAPH
+## 🌐 Find Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitesh9876&bg_color=ffffff00&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+<a href="https://github.com/vitesh9876"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vitesh9876&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# `08` — CURRENT MODE
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  STATUS                                      │
-│  ● BUILDING                                  │
-│                                              │
-│  FOCUS                                       │
-│  AI Systems                                  │
-│  Full-Stack Engineering                      │
-│  Automation                                  │
-│                                              │
-│  MINDSET                                     │
-│  Build → Break → Learn → Rebuild             │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# `09` — BEYOND THE CODE
-
-I don't want every project to remain an experiment.
-
-The goal is simple:
-
-> **Take an idea → build the system → make it usable → learn from it → build the next one.**
-
----
-
 <div align="center">
 
-### `BUILDING IN PUBLIC`
+### `BUILD → BREAK → LEARN → REBUILD`
+
+<img src="./assets/footer.svg" alt="Keep building" width="70%"/>
 
 <br/>
 
-<a href="https://github.com/vitesh9876">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vitesh9876&style=flat-square&color=7c3aed" />
-
-<br/><br/>
-
-**Thanks for visiting.**
-
-`Vitesh Pallapothu`
+**Thanks for stopping by.**
 
 </div>
