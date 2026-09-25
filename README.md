@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Full+Stack+Builder;Building+AI+Agents+%26+Automation;Turning+ideas+into+working+products;Vibe+coding+%E2%86%92+build+%E2%86%92+ship" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Full+Stack+Builder;Building+AI+Agents+%26+Automation;Turning+ideas+into+working+products" />
 
 </div>
 
@@ -43,20 +43,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,vite,tailwind,nodejs,express,fastapi,pytorch,tensorflow,mongodb,postgres,sqlite,docker,git,github&perline=10"/>
-
-</div>
-
----
-
-## 🤖 Vibe Coding
-
-<div align="center">
-
-**Prompt → Prototype → Debug → Refine → Ship**
-
-<br/>
-
-<sub>AI-assisted development, backed by actual engineering.</sub>
 
 </div>
 
