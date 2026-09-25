@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#06b6d4"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="146" rx="24" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="600" y="62" text-anchor="middle" font-family="Arial" font-size="25" font-weight="800" fill="#0f172a">BUILD • BREAK • LEARN • REBUILD</text>
+<text x="600" y="91" text-anchor="middle" font-family="Arial" font-size="14" fill="#64748b">Always experimenting with the next useful thing.</text>
+<path d="M360 116 H840" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 14"><animate attributeName="stroke-dashoffset" from="0" to="-110" dur="2.2s" repeatCount="indefinite"/></path>
+<circle cx="600" cy="116" r="5" fill="#7c3aed"><animate attributeName="r" values="4;8;4" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>
