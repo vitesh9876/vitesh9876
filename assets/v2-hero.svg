@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#06b6d4"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="356" rx="28" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<path d="M760 0 C900 80 1040 30 1200 120" fill="none" stroke="url(#g)" stroke-width="2" opacity=".28"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M760 0 C900 80 1040 30 1200 120;M700 40 C900 0 1040 100 1200 50;M760 0 C900 80 1040 30 1200 120"/></path>
+<circle cx="1010" cy="92" r="76" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity=".18"><animateTransform attributeName="transform" type="rotate" from="0 1010 92" to="360 1010 92" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="92" r="42" fill="none" stroke="#06b6d4" stroke-width="2" opacity=".22"/>
+<circle cx="1010" cy="92" r="6" fill="#7c3aed"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="64" y="78" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#64748b" letter-spacing="4">VITESHPALLOPOTHU / DEVELOPER</text>
+<text x="64" y="150" font-family="Arial,sans-serif" font-size="62" font-weight="800" fill="#0f172a">AI × SOFTWARE</text>
+<text x="64" y="214" font-family="Arial,sans-serif" font-size="62" font-weight="800" fill="url(#g)">× AUTOMATION</text>
+<text x="66" y="252" font-family="Arial,sans-serif" font-size="18" fill="#475569">Computer Science Engineer • AI Builder • Full-Stack Developer</text>
+<g transform="translate(64 282)"><rect width="112" height="34" rx="17" fill="#ede9fe"/><text x="56" y="22" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#6d28d9">AI / ML</text>
+<rect x="124" width="122" height="34" rx="17" fill="#cffafe"/><text x="185" y="22" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0e7490">FULL STACK</text>
+<rect x="258" width="126" height="34" rx="17" fill="#dbeafe"/><text x="321" y="22" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#1d4ed8">AUTOMATION</text></g>
+<g opacity=".65"><circle cx="1110" cy="240" r="4" fill="#06b6d4"><animate attributeName="cy" values="240;220;240" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="1145" cy="275" r="3" fill="#7c3aed"><animate attributeName="cy" values="275;290;275" dur="2.2s" repeatCount="indefinite"/></circle></g>
+</svg>
