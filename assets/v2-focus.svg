@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="206" rx="24" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="34" y="44" font-family="Arial" font-size="14" font-weight="700" fill="#64748b" letter-spacing="3">CURRENT TOOLBOX</text>
+<g font-family="Arial" font-size="15" font-weight="700">
+<rect x="34" y="68" width="210" height="96" rx="18" fill="#ede9fe"/><text x="54" y="102" fill="#6d28d9">AI / ML</text><text x="54" y="128" font-size="13" font-weight="400" fill="#475569">LLMs • NLP • PyTorch</text><text x="54" y="150" font-size="13" font-weight="400" fill="#475569">Embeddings • Evaluation</text>
+<rect x="264" y="68" width="210" height="96" rx="18" fill="#cffafe"/><text x="284" y="102" fill="#0e7490">BACKEND</text><text x="284" y="128" font-size="13" font-weight="400" fill="#475569">Python • FastAPI</text><text x="284" y="150" font-size="13" font-weight="400" fill="#475569">Node • SQL • APIs</text>
+<rect x="494" y="68" width="210" height="96" rx="18" fill="#dbeafe"/><text x="514" y="102" fill="#1d4ed8">FRONTEND</text><text x="514" y="128" font-size="13" font-weight="400" fill="#475569">React • Next.js</text><text x="514" y="150" font-size="13" font-weight="400" fill="#475569">TypeScript • Tailwind</text>
+<rect x="724" y="68" width="210" height="96" rx="18" fill="#fef3c7"/><text x="744" y="102" fill="#a16207">SYSTEMS</text><text x="744" y="128" font-size="13" font-weight="400" fill="#475569">WebSockets • Realtime</text><text x="744" y="150" font-size="13" font-weight="400" fill="#475569">Automation • Desktop</text>
+<rect x="954" y="68" width="212" height="96" rx="18" fill="#dcfce7"/><text x="974" y="102" fill="#15803d">DATA</text><text x="974" y="128" font-size="13" font-weight="400" fill="#475569">Pandas • PostgreSQL</text><text x="974" y="150" font-size="13" font-weight="400" fill="#475569">MongoDB • Vector DB</text>
+</g>
+<path d="M36 188 H1164" stroke="url(#g)" stroke-width="2" stroke-dasharray="6 10"><animate attributeName="stroke-dashoffset" from="0" to="-80" dur="2s" repeatCount="indefinite"/></path>
+</svg>
