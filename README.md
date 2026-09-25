@@ -4,13 +4,13 @@
 
 <br/>
 
-<a href="https://github.com/vitesh9876"><img src="https://img.shields.io/badge/GITHUB-0B0B10?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vitesh9876"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/vitesh9876?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/vitesh9876?tab=followers"><img src="https://img.shields.io/github/followers/vitesh9876?style=for-the-badge&label=FOLLOWERS&color=00D9FF"/></a>
+<a href="https://github.com/vitesh9876?tab=followers"><img src="https://img.shields.io/github/followers/vitesh9876?style=for-the-badge&label=FOLLOWERS&color=06B6D4"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Full+Stack+Builder;Building+AI+Agents+%26+Automation;Turning+ideas+into+working+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Full+Stack+Builder;Building+AI+Agents+%26+Automation;Turning+ideas+into+working+products"/>
 
 </div>
 
@@ -18,27 +18,23 @@
 
 <div align="center">
 
-### ⚡ I BUILD THINGS THAT MOVE
+### ⚡ AI · SOFTWARE · AUTOMATION
 
-`AI / ML` · `FULL STACK` · `AUTOMATION` · `REAL-TIME` · `DATA`
+`AI / ML` · `FULL STACK` · `REAL-TIME` · `DATA`
 
 </div>
 
-## 🚀 My Builds
+## 🚀 Projects
 
 <div align="center">
 
-<a href="https://github.com/vitesh9876/DataMorph-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=DataMorph-AI&theme=transparent&hide_border=true"/></a>
-<a href="https://github.com/vitesh9876/auravoice-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=auravoice-ai&theme=transparent&hide_border=true"/></a>
-
-<a href="https://github.com/vitesh9876/Intelligent-Support-Queue-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=Intelligent-Support-Queue-System&theme=transparent&hide_border=true"/></a>
-<a href="https://github.com/vitesh9876/Real-Time-Productivity-Management-System-Mini-SaaS-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vitesh9876&repo=Real-Time-Productivity-Management-System-Mini-SaaS-&theme=transparent&hide_border=true"/></a>
+<img src="./assets/projects.svg" width="100%"/>
 
 </div>
 
 ---
 
-## 🧠 Stack
+## 🧰 Stack
 
 <div align="center">
 
@@ -61,7 +57,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitesh9876&bg_color=00000000&color=00F5A0&line=7C3AED&point=00D9FF&area=true&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitesh9876&bg_color=ffffff00&color=7C3AED&line=06B6D4&point=7C3AED&area=true&hide_border=true" width="96%"/>
 
 </div>
 
@@ -69,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REBUILD;KEEP+BUILDING.;KEEP+SHIPPING." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REBUILD;KEEP+BUILDING.;KEEP+SHIPPING."/>
 
 <br/><br/>
 
