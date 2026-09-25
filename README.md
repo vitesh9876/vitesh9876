@@ -64,16 +64,15 @@ I like learning by building, experimenting with new technologies and turning pra
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <a href="https://github.com/vitesh9876/DataMorph-AI"><img src="https://img.shields.io/badge/01-DATAMORPH_AI-7C3AED?style=for-the-badge&logoColor=white"/><br/><b>DataMorph AI</b><br/><sub>Raw files → structured intelligence</sub><br/><br/><code>React · FastAPI · Python · Gemini</code></a> | <a href="https://github.com/vitesh9876/ai-crashtest"><img src="https://img.shields.io/badge/02-AI_CRASHTEST-06B6D4?style=for-the-badge&logoColor=white"/><br/><b>AI CrashTest</b><br/><sub>Stress-test & harden AI systems</sub><br/><br/><code>Next.js · FastAPI · LLM Eval</code></a> |
-| <a href="https://github.com/vitesh9876/billing-app"><img src="https://img.shields.io/badge/03-SMARTSHOP-10B981?style=for-the-badge&logoColor=white"/><br/><b>SmartShop</b><br/><sub>Jewelry POS + gold loan platform</sub><br/><br/><code>Next.js · FastAPI · PostgreSQL · Kotlin</code></a> | <a href="https://github.com/vitesh9876/auravoice-ai"><img src="https://img.shields.io/badge/04-AURAVOICE_AI-F59E0B?style=for-the-badge&logoColor=white"/><br/><b>AuraVoice AI</b><br/><sub>Voice → signals → intelligence</sub><br/><br/><code>PyTorch · Whisper · Wav2Vec2 · DSP</code></a> |
-| <a href="https://github.com/vitesh9876/Intelligent-Support-Queue-System"><img src="https://img.shields.io/badge/05-SUPPORT_QUEUE-E11D48?style=for-the-badge&logoColor=white"/><br/><b>Intelligent Support Queue</b><br/><sub>Real-time customer support orchestration</sub><br/><br/><code>React · Node · Socket.IO · MongoDB</code></a> | <a href="https://github.com/vitesh9876/Real-Time-Productivity-Management-System-Mini-SaaS-"><img src="https://img.shields.io/badge/06-PRODUCTIVITY_SAAS-8B5CF6?style=for-the-badge&logoColor=white"/><br/><b>Productivity SaaS</b><br/><sub>Dynamic priority + real-time sync</sub><br/><br/><code>React · Node · MongoDB · WebSockets</code></a> |
+<a href="https://github.com/vitesh9876/DataMorph-AI"><img src="./assets/project-datamorph.svg" width="48%" alt="DataMorph AI"/></a>
+<a href="https://github.com/vitesh9876/ai-crashtest"><img src="./assets/project-crashtest.svg" width="48%" alt="AI CrashTest"/></a>
 
-</div>
+<a href="https://github.com/vitesh9876/billing-app"><img src="./assets/project-smartshop.svg" width="48%" alt="SmartShop"/></a>
+<a href="https://github.com/vitesh9876/auravoice-ai"><img src="./assets/project-auravoice.svg" width="48%" alt="AuraVoice AI"/></a>
 
-<div align="center">
-<sub>Each build above is directly clickable.</sub>
+<a href="https://github.com/vitesh9876/Intelligent-Support-Queue-System"><img src="./assets/project-support.svg" width="48%" alt="Intelligent Support Queue"/></a>
+<a href="https://github.com/vitesh9876/Real-Time-Productivity-Management-System-Mini-SaaS-"><img src="./assets/project-productivity.svg" width="48%" alt="Productivity SaaS"/></a>
+
 </div>
 
 ---
