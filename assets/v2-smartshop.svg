@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 250">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0f766e"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs><rect x="2" y="2" width="576" height="246" rx="22" fill="#ffffff" stroke="#99f6e4" stroke-width="2"/>
+<g transform="translate(28 30)"><rect width="68" height="68" rx="16" fill="#ccfbf1"/><rect x="17" y="18" width="34" height="32" rx="5" fill="none" stroke="url(#g)" stroke-width="4"/><path d="M23 27 H45 M23 36 H45 M23 45 H38" stroke="#0f766e" stroke-width="3"/></g>
+<text x="116" y="58" font-family="Arial" font-size="23" font-weight="800" fill="#0f172a">SmartShop</text><text x="116" y="82" font-family="Arial" font-size="13" fill="#64748b">Jewelry POS + loan platform</text>
+<text x="28" y="132" font-family="Arial" font-size="14" fill="#334155">Billing • customer history • SMS • wireless bridge</text>
+<g font-family="Arial" font-size="11" font-weight="700"><rect x="28" y="160" width="92" height="28" rx="14" fill="#ccfbf1"/><text x="74" y="178" text-anchor="middle" fill="#0f766e">NEXT.JS</text><rect x="128" y="160" width="92" height="28" rx="14" fill="#cffafe"/><text x="174" y="178" text-anchor="middle" fill="#0e7490">FASTAPI</text><rect x="228" y="160" width="92" height="28" rx="14" fill="#dcfce7"/><text x="274" y="178" text-anchor="middle" fill="#15803d">KOTLIN</text></g>
+<path d="M28 216 H548" stroke="#e2e8f0"/><circle cx="548" cy="216" r="4" fill="#14b8a6"><animate attributeName="cx" values="548;28;548" dur="4s" repeatCount="indefinite"/></circle></svg>
